@@ -1,4 +1,4 @@
-<pre>import java.io.*;
+import java.io.*;
  
 /** An object of class StatCalc can be used to compute several simple statistics
  * for a set of numbers.  Numbers are entered into the dataset using
@@ -78,4 +78,3 @@ public class statCalc
     System.out.println("Standard Deviation: "+stats.getStandardDeviation());        
    }
 }  
-</pre>
